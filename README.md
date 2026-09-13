@@ -12,6 +12,7 @@ Design and simulate a secure, redundant, and scalable enterprise network for a c
 - **Three branches**: Cairo (R1), Alexandria (R2), Mansoura (R3)
 - **ISP & Core Router**: centralized ISP router (R4) connecting all branches via static routing
 - **Internal redundancy**: VRRP between paired routers (R5, R6, R7) for high availability
+![Network Topology](network-topology.png)
 
 ## Key Features Implemented
 
